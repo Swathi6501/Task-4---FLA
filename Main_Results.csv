@@ -1,7 +1,0 @@
-Test Case,Expected Behaviour,Observed Result
-Normal Program,Terminates,Terminated
-Infinite Loop,Runs Forever,Possible Infinite Loop
-Conditional Loop,Terminates,Terminated
-Countdown,Terminates,Terminated
-Halting Turing Machine,Reaches HALT State,Machine Halted
-Non-Halting Turing Machine,Continues Execution,Did Not Halt Within Step Limit
