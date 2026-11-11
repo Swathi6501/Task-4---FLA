@@ -1,0 +1,12 @@
+
+TURING MACHINE SIMULATION RESULTS
+
+Halting Machine:
+('Machine Halted', 4)
+
+Non-Halting Machine:
+('Did Not Halt Within Step Limit', 20)
+
+Note:
+Not halting within 20 steps does not mathematically prove
+that a machine will never halt.

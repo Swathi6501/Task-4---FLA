@@ -1,33 +1,40 @@
-# CLA2 – Formal Language and Automata
 
-## About
-This repository contains the implementations and practical demonstrations completed as part of the CLA2 assignment for the course **Formal Language and Automata (21CSC301T)**.
+# Task 4: Infinite Loop Detection in Software
 
-## Task 4 – Infinite Loop Detection in Software
-This task demonstrates the application of computational theory to infinite-loop detection using Python.
-
-### Implementations
-- Program termination analysis
-- Timeout-based loop detection
-- Static loop analysis
-- Bounded loop simulation
-- Comparison of static and runtime analysis
-- Turing Machine simulation
-- Execution result visualization
-
-## Technologies Used
-- Python
-- Google Colab
-- Pandas
-- Matplotlib
-
-## Repository Contents
-- `Task4_Infinite_Loop_Detection.ipynb` – Python implementation and execution results.
+## Subject
+Formal Language and Automata
 
 ## Objective
-To understand the limitations of automatic infinite-loop detection and explore practical techniques for analyzing program execution.
+To study how computation theory explains the limitations
+of detecting infinite loops in software.
 
----
+## Concepts Covered
+- Turing Machines
+- Halting Problem
+- Decidability and Undecidability
+- Recognizability
+- Static Analysis
+- Runtime Analysis
+- Bounded Loop Simulation
 
-**Course:** Formal Language and Automata  
-**Course Code:** 21CSC301T
+## Main Results
+- Runtime termination analysis
+- Static analysis classifications
+- Bounded loop simulation
+- Input-dependent loop execution
+- Turing machine simulation
+
+## Important Observation
+The general Halting Problem is undecidable.
+A timeout or a finite step limit cannot prove that an
+arbitrary program will never halt.
+
+## Files
+- Main_Results.csv
+- Static_Analysis.csv
+- Bounded_Loop_Results.csv
+- Turing_Machine_Results.txt
+- PNG graph outputs
+
+## Platform
+Google Colab and Python
